@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ha0517.github.io</id>
     <title>ha0517</title>
-    <updated>2021-02-26T02:19:46.652Z</updated>
+    <updated>2021-02-26T02:22:36.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ha0517.github.io"/>
     <link rel="self" href="https://ha0517.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://ha0517.github.io/images/avatar.png</logo>
     <icon>https://ha0517.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, ha0517</rights>
+    <entry>
+        <title type="html"><![CDATA[新鲜的电影资源！]]></title>
+        <id>https://ha0517.github.io/post/xin-xian-de-dian-ying-zi-yuan/</id>
+        <link href="https://ha0517.github.io/post/xin-xian-de-dian-ying-zi-yuan/">
+        </link>
+        <updated>2021-02-26T02:20:41.000Z</updated>
+        <content type="html"><![CDATA[<p>新鲜的电影资源！</p>
+<figure data-type="image" tabindex="1"><img src="https://ha0517.github.io/post-images/1614306073240.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://ha0517.github.io/post-images/1614306080640.png" alt="" loading="lazy"></figure>
+<p>网址：https://www.o8tv.com/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ha0517.github.io/post/hello-gridea/</id>
